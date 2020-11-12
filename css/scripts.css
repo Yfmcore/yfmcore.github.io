@@ -1,0 +1,25 @@
+.container{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    position: absolute;
+    transform: translate(-50%, -50%) }
+.bg {
+  background-image: url("media/background.jpg");
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg-text {
+  color: white;
+  top: 45%;
+  left: 50%;
+}
+.bg-text1 {
+  color: white;
+  top: 70%;
+  left: 50%;
+}
