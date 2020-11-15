@@ -6,8 +6,6 @@
     transform: translate(-50%, -50%) }
 .bg {
   background-image: url("media/background.jpg");
-  filter: blur(8px);
-  -webkit-filter: blur(8px);
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
